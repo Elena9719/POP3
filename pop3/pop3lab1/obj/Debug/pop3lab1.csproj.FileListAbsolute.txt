@@ -1,0 +1,11 @@
+C:\Users\Админ\source\repos\pop3lab1\pop3lab1\bin\Debug\pop3lab1.exe.config
+C:\Users\Админ\source\repos\pop3lab1\pop3lab1\bin\Debug\pop3lab1.exe
+C:\Users\Админ\source\repos\pop3lab1\pop3lab1\bin\Debug\pop3lab1.pdb
+C:\Users\Админ\source\repos\pop3lab1\pop3lab1\bin\Debug\Mail.dll
+C:\Users\Админ\source\repos\pop3lab1\pop3lab1\bin\Debug\OpenPop.dll
+C:\Users\Админ\source\repos\pop3lab1\pop3lab1\bin\Debug\Mail.xml
+C:\Users\Админ\source\repos\pop3lab1\pop3lab1\obj\Debug\pop3lab1.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\pop3lab1\pop3lab1\obj\Debug\pop3lab1.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\pop3lab1\pop3lab1\obj\Debug\pop3lab1.csproj.CopyComplete
+C:\Users\Админ\source\repos\pop3lab1\pop3lab1\obj\Debug\pop3lab1.exe
+C:\Users\Админ\source\repos\pop3lab1\pop3lab1\obj\Debug\pop3lab1.pdb
